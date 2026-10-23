@@ -7,6 +7,12 @@
       "env": {
         "PYTHONUTF8": "1"
       }
+    },
+    "weather": {
+      "transport": "stdio",
+      "command": "D:/PythonProject/个人事务助手agent/venv/Scripts/python.exe",
+      "args": ["D:/PythonProject/个人事务助手agent/WebwithMCP/backend/weather_mcp_server.py"],
+      "env": { "PYTHONUTF8": "1" }
     }
   }
 }
